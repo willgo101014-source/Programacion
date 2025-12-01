@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+=======
+<<<<<<< HEAD
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+>>>>>>> ad479cd436fca5c33abe94b03299dc0a51f5623d
+>>>>>>> 6416a937b5d3f2836a7697ed9d1d3b9d77a0bfd5
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
